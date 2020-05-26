@@ -1,0 +1,17 @@
+.search {
+  -webkit-appearance: none;
+  border: none;
+  outline: none;
+  padding: 10px;
+  padding-left: 0;
+  width: 150px;
+  line-height: 30px;
+  margin-bottom: 30px;
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.search > input {
+  border-style: none;
+}
